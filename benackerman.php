@@ -10,6 +10,17 @@
 	<h1>Ben Ackerman</h1>
 	<em>Broadcast engineer, programmer, and more</em>
 	
+	<p>Ben Ackerman is a Computer Science student and aspiring broadcast engineer
+	at the University of Rochester.  Originally from Fairfax, VA, he got into
+	computers at a very young age, and has been interested in all things tech
+	ever since.  In addition to studying at UR, Ben also works in the engineering
+	department at WXXI Public Broadcasting in Rochester.  There, he is known
+	for having written a program that allowed WXXI to transmit show and song
+	information to text-enabled radios.  Along the side, Ben also helps out at
+	WRUR, both in engineering and by co-hosting a classic rock show, and at the
+	Computer Interest Floor (CIF) as their tech maintenance director, maintaining
+	their computer lab in the basement of Anderson Tower.</p>
+	
 	<h2>Projects:</h2>
 	<h3>Composer2RDS</h3>
 	<p>Wrote a script that retrieves metadata from NPR's Composer system and
