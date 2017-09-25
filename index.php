@@ -23,7 +23,7 @@
         <section class="about_us">
             <h1>About Us</h1>
             <div class="minibios">
-                <div class="bio1">
+                <div class="bio">
                     <h2>Greg Marshall</h2>
                     <p>"Greg Marshall (often referred to as Greg The Great for 
                       his genius and winning personality) was born in Syracuse, New York. He 
@@ -41,7 +41,7 @@
                     <a href= "gregmarshall.php">Click for more about Greg</a>
                 </div>   
 
-                <div class="bio2">
+                <div class="bio">
                     <h2>Ben Ackerman</h2>
                     <p>"Ben Ackerman is a Computer Science student and aspiring broadcast engineer
                         at the University of Rochester.  Originally from Fairfax, VA, he got into
@@ -56,7 +56,7 @@
                     <a href="benackerman.php">Click for more about Ben</a>
                 </div>   
 
-                <div class="bio3">
+                <div class="bio">
                     <h2>Jackie Powell</h2>
                     <p>"Jackie Powell is a current International Relations major while 
                     also pursuing a journalism minor at the University of Rochester. 
