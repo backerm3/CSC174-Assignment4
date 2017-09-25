@@ -2,6 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="bio_styling.css">
     <title>Who We Are</title>
 </head>
  
