@@ -7,18 +7,10 @@
 </head>
 
 <body>
-    <header>
-        <section>
-            <nav class="main-menu">
-                <ul>
-                  <li class="current"><a href="index.php">Home</a></li>
-                  <li><a href="gregmarshall.php">Greg Marshall</a></li>
-                  <li><a href="benackerman.php">Ben Ackerman</a></li>
-                  <li><a href="jackiepowell.php">Jackie Powell</a></li>
-                </ul>
-            </nav>
-        </section>
-    </header>
+    <?php
+	$page = "home";
+	include "header.inc.php";
+    ?>
 
     <div class="container">
         <section class="about_us">
