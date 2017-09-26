@@ -1,0 +1,100 @@
+body{
+	background-color: #00cc00;
+	font-family: "Palatino Linotype","Book Antiqua", Palatino, serif;
+	font-size: 12pt;
+	color: #000000:
+
+}
+
+h1{
+  font-size: 24pt;
+	border-bottom: 2px solid #e6e600;
+	text-align: center;
+}
+
+
+h2{
+	font-family: "Times New Roman";
+	font-size: 20pt;
+	font-style: oblique;
+	margin-top: 30px;
+	margin-bottom: 0;
+}
+
+em{
+  font-size: 22pt;
+  font-family: "Georgia";
+}
+
+
+
+.bio{
+  font-family: "Palatino Linotype","Book Antiqua", Palatino, serif;
+	font-size: 14pt;
+	color: #000000:
+}
+
+.para2{
+	background-color: rgba(255,255,255,0.7);
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.shad{
+	box-shadow: 3px 3px #000000;
+	margin-bottom: 35px;
+}
+.about_us{
+margin: auto;
+width: 80%;
+max-width: 960px;
+}
+
+.footer{
+  text-align: center;
+}
+
+.main-menu{
+	margin-left: 11%;
+	list-style-type:none;
+	padding-left: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.main-menu .button{
+	border: 1px solid black;
+	margin-right: 15px;
+}
+
+.main-menu li{
+	display: table-cell;
+}
+
+.main-menu a{
+	color:black;
+	display: block;
+	margin: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-decoration: none;
+}
+
+.main-menu ul{
+	border-collapse: collapse;
+}
+
+.main-menu a:hover{
+	color: yellow;
+	background-color: #004d99;
+	box-shadow: 3px 3px;
+}
+
+.current {
+	background-color: yellow;
+	font-weight: bold;
+}
